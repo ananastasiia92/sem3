@@ -1,0 +1,15 @@
+/Users/mak/Desktop/HomeworkC#/sem3/задача 23/bin/Debug/net7.0/задача 23
+/Users/mak/Desktop/HomeworkC#/sem3/задача 23/bin/Debug/net7.0/задача 23.deps.json
+/Users/mak/Desktop/HomeworkC#/sem3/задача 23/bin/Debug/net7.0/задача 23.runtimeconfig.json
+/Users/mak/Desktop/HomeworkC#/sem3/задача 23/bin/Debug/net7.0/задача 23.dll
+/Users/mak/Desktop/HomeworkC#/sem3/задача 23/bin/Debug/net7.0/задача 23.pdb
+/Users/mak/Desktop/HomeworkC#/sem3/задача 23/obj/Debug/net7.0/задача 23.csproj.AssemblyReference.cache
+/Users/mak/Desktop/HomeworkC#/sem3/задача 23/obj/Debug/net7.0/задача 23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mak/Desktop/HomeworkC#/sem3/задача 23/obj/Debug/net7.0/задача 23.AssemblyInfoInputs.cache
+/Users/mak/Desktop/HomeworkC#/sem3/задача 23/obj/Debug/net7.0/задача 23.AssemblyInfo.cs
+/Users/mak/Desktop/HomeworkC#/sem3/задача 23/obj/Debug/net7.0/задача 23.csproj.CoreCompileInputs.cache
+/Users/mak/Desktop/HomeworkC#/sem3/задача 23/obj/Debug/net7.0/задача 23.dll
+/Users/mak/Desktop/HomeworkC#/sem3/задача 23/obj/Debug/net7.0/refint/задача 23.dll
+/Users/mak/Desktop/HomeworkC#/sem3/задача 23/obj/Debug/net7.0/задача 23.pdb
+/Users/mak/Desktop/HomeworkC#/sem3/задача 23/obj/Debug/net7.0/задача 23.genruntimeconfig.cache
+/Users/mak/Desktop/HomeworkC#/sem3/задача 23/obj/Debug/net7.0/ref/задача 23.dll
